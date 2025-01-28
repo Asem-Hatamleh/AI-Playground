@@ -61,7 +61,7 @@ To facilitate manageable analysis, a sample of 2 million records was extracted f
 
 ## Code
 
-Click [here]( https://github.com/Asem-Hatamleh/AI-Playground/blob/Big-Data-Processing/Code.ipynb ) to access the code for this project.
+Click [here](  https://github.com/Asem-Hatamleh/AI-Playground/blob/main/Big-Data-Processing/Code.ipynb) to access the code for this project.
  
 
  
