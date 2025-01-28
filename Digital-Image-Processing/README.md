@@ -69,7 +69,7 @@ Gaussian smoothing with gamma correction was identified as the most effective me
 
 # Code
 
-Click [here]( https://github.com/Asem-Hatamleh/AI-Playground/blob/Digital-Image-Processing/DIP.ipynb) to access the code for this project.
+Click [here]( https://github.com/Asem-Hatamleh/AI-Playground/blob/main/Digital-Image-Processing/DIP.ipynb) to access the code for this project.
 
 
  
