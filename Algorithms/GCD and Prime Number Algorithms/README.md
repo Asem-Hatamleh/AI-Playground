@@ -1,9 +1,6 @@
 # GCD and Prime Number Algorithms
 
-## Author
-**Asem Omar Hattamleh**  
-**ID:** 163633  
-
+ 
 ## Description
 This repository contains Python implementations of algorithms related to the Greatest Common Divisor (GCD), Euclidean algorithm, and prime number properties.
 
