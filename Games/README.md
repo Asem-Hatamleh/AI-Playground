@@ -46,10 +46,5 @@ python puzzle_solver.py
 ## Bonus Feature
 - A GUI provides a visual representation of the state changes while solving the puzzle, earning an additional bonus mark as per the assignment requirements.
 
-## Author
-- **Your Name**
-
-## License
-This project is open-source and free to use.
-
+ 
 
