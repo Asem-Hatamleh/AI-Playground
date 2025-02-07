@@ -6,6 +6,8 @@ This repository documents my participation and success in the private competitio
 The competition ran from **May 26, 2024**, to **June 8, 2024**, and I achieved the **top score** in the competition. This README provides a high-level overview of my approach and results.
 
 
+
+
 ![Screenshot 2025-02-07 183034](https://github.com/user-attachments/assets/905cb52a-3984-4afb-aa32-c9b9cf04b270)
 
 
