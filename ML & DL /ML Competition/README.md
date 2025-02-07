@@ -77,11 +77,4 @@ To replicate or build upon this work:
 2. Ensure the dataset is placed in the correct directory.
 3. Run the provided code to preprocess the data, train the model, and generate predictions.
 
----
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-For any questions or collaborations, feel free to reach out! 🚀
